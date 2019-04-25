@@ -1,0 +1,11 @@
+{
+    "name": "rbinfo/f25avrl",
+    "type": "library",
+    "authors": [
+        {
+            "name": "yassine",
+            "email": "yassinesaid5@gmail.com"
+        }
+    ],
+    "require": {}
+}
